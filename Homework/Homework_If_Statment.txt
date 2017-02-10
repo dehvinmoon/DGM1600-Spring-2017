@@ -1,0 +1,12 @@
+If Statment Notes:
+
+"If" statements allow you to tell the program that if something meets a certain requirment as dictated by you than it must do that thing that you stated.
+
+You also can put an "else" statment, that corsponds to your "if" statement and dictates if the requirments of the "if" statement are not met than do the "else statement.
+
+For example:
+
+If: coffee is to hot than don't drink the coffee.
+
+Else: Unless the coffee is too cold than also don't drink.
+
