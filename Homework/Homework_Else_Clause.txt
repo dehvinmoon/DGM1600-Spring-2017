@@ -1,2 +1,10 @@
 An else clause can come in two forms. The else clause is similar to an "if" statment but it is what happens to the excution of our code if it is false. 
 The other else statment is a "else if" gives a new codition to work with also if the code excuted is false. 
+
+Example:
+var time = new Date().getHours(); 
+if (time < 20) {
+    greeting = "Good day";
+} else {
+    greeting = "Good evening";
+}
