@@ -1,0 +1,4 @@
+Classes are the factories where boxes and machines work in for example.
+The class is a cotainer for all of your variables and fuctions and are used for object oranted programing.
+Classes should be dedticated to one task. You do it this way so that it easy for you keep track of what your script is doing.
+It is much more managable to always keep it clean in coding.
