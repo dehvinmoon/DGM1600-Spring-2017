@@ -1,0 +1,3 @@
+Looping is a way to repeat lines of code it is also known as itterating. The for loop is similar to a while loop but uses a diffrent sintax.
+You put in the keyword "for" and then you have three sections, how many, the conditonal, and the icrement and the dicrment section. 
+A for loop is good for counting when the number of iterations are known do to its sintax. 
