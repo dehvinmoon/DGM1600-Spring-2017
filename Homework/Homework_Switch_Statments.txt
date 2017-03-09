@@ -1,0 +1,3 @@
+A switch statment is a stream lined conditonal where you compare a single conditonal to a sting of constants.
+Its good for things like creating a conversation between two charcters so you don't need to use several if statments.
+You give the switch a series of cases which are the constants that tell the program what to do when the correct imput is put in.
