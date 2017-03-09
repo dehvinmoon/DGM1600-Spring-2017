@@ -1,0 +1,3 @@
+While loops can be very dagnerous if you don't close the loop. It is a loop that never ends. So you need to make sure you close the loop.
+You can emulate full loops with a while loop. While loops are great for moments where you need to do things over and over again.
+An example of doing a things over and over again, is someone attempting to role a digital dice over and over again to see what numbers you randomly end up with.
