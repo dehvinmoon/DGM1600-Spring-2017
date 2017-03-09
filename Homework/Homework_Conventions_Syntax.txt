@@ -1,0 +1,4 @@
+Coding syntax is the structure of the language and is needed to actually know what you are reading and writing within the code.
+"." operator is an example of a syntax it is a full stop, similar to a comma in the English language. Semicolon is a like a period
+in the english language. Also indenting is a great way to keep your work clean. Comments are also great for helping you know what 
+your purpose was when writing the code "//". 
