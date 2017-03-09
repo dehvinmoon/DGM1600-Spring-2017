@@ -1,0 +1,2 @@
+This loop is good to itterate thourgh things like Arrays. This loop will go through each collection collected by the Array item by item.
+Once it finishes going through each of these collections it then stops. Its keyword is "foreach". You can not modify things in the collection with this type of loop.
