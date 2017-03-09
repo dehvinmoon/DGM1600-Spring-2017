@@ -1,0 +1,4 @@
+Lists and Dictionary's are similar to Arrays.
+A list is a dynamic sized array you don't need to know how many things your storing.
+Item in the list can be accesed just like arrays.
+A list can sort things and is very valuable. 
