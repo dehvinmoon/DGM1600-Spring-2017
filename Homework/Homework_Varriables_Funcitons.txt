@@ -1,0 +1,2 @@
+Varriables are boxes that cotain information and those boxes must be seperated. You start by picking the box you need and then nameing that box, then you say how much things or what things you need to place into that box.
+To get more detailed with variables you use fuctions. Fuctions can return boxes back to us. Functions are finding boxes and bringing them to us to work with. 
