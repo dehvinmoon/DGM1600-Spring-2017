@@ -1,0 +1,3 @@
+Arrays are great for storing the same type data in the same place. Arrays are a collection of varriables of a certain type.
+You need to declare the length or how many varriables will be collected in your array.
+Arrays are great to work with loops. 
